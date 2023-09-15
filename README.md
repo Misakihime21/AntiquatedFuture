@@ -4,14 +4,13 @@ UE game for 2023 Epic MegaJam
 ASSETS
 
 Epic Content:
-	Edith Finch: Edie Room
+	Soul: City
+
 	Edith Finch: Barbara Room
 	Edith Finch: House and Common
-"Light Switch" by Avot is licensed under Creative Commons Attribution.
-"Door key" by SusanKing is licensed under Creative Commons Attribution.
-Kate Character and animations by Mixamo
-Background music: Relax by Francisco Alvear
-Mixkit sound effects
+	
+"Cute Home Robot" (https://skfb.ly/6SVnI) by Yandrack is licensed under Creative Commons Attribution (http://creativecommons.org/licenses/by/4.0/).
+
 
 
 WHAT IS DONE
@@ -20,6 +19,15 @@ WHAT IS DONE
 ----------
 
 TODO LIST
+
+- input change
+- check interaction 
+
+- 
+- change interactive dot to make a cyberpunk style
+- change text font
+- AnimBP for the robot
+
 
 GENERAL IDEA
 

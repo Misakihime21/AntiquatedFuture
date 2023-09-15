@@ -74,9 +74,8 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 
 # Assets from store
-Content/EF_Edie/*
-Content/EF_FirstFloor/*
-Content/EF_Barbra/*
+Content/SoulCity/*
+Content/AntiquatedFuture/Meshes/*
 
 # Default assets
 Content/Characters/*
@@ -84,6 +83,9 @@ Content/StarterContent/*
 Content/FirstPerson/*
 Content/FirstPersonArms/*
 Content/Platformer/*
+
+# Examples
+Content/Luna/*
 
 # Sounds
 Content/Luna/Sounds/*
