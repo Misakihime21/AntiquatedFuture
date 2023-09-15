@@ -20,10 +20,11 @@ WHAT IS DONE
 
 TODO LIST
 
-- input change
-- check interaction 
 
-- 
+- text typing with robot sound 
+- settings is not saving
+- movement sound
+- jump sound only once
 - change interactive dot to make a cyberpunk style
 - change text font
 - AnimBP for the robot
