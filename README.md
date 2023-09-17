@@ -20,7 +20,9 @@ WHAT IS DONE
 
 TODO LIST
 
-
+- blocking volume
+- screen text - current objective
+- landscape change
 - text typing with robot sound 
 - settings is not saving
 - movement sound
