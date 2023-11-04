@@ -1,5 +1,5 @@
 # AntiquatedFuture | 
-UE game for 2023 Epic MegaJam
+UE game for 2023.11 Siberian GameJam
 
 ASSETS
 
@@ -14,20 +14,24 @@ Epic Content:
 
 
 WHAT IS DONE
++ color change via interactive items;
++ screen text with the current objective;
 
 
 ----------
 
 TODO LIST
 
+- respawn working only first time;
 
+- blocking volume
+- landscape change
 - text typing with robot sound 
 - settings is not saving
 - movement sound
 - jump sound only once
 - change interactive dot to make a cyberpunk style
 - change text font
-- AnimBP for the robot
 
 
 GENERAL IDEA
