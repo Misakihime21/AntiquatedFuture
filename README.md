@@ -22,6 +22,7 @@ WHAT IS DONE
 
 TODO LIST
 
+- LIMIT FPS!!!
 - one of the objections must be obtaining of the sound module, after which the ambient music and effects would be heared;
 - respawn working only first time;
 - camera modifier change is too rough without fading out rn;
